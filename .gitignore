@@ -1,0 +1,9 @@
+# generic
+*.log
+
+# JS related
+bower_components
+node_modules
+
+# IDE related
+.idea
